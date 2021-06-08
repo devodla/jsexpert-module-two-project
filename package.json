@@ -1,0 +1,24 @@
+{
+  "name": "jsexpert-module-two-project",
+  "version": "1.0.0",
+  "description": "Renting a car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devodla/jsexpert-module-two-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devodla/jsexpert-module-two-project/issues"
+  },
+  "homepage": "https://github.com/devodla/jsexpert-module-two-project#readme",
+  "devDependencies": {
+    "faker": "^5.5.3"
+  }
+}
