@@ -1,0 +1,23 @@
+[
+  {
+    "id": "f0d7798d-8c4d-498c-9db7-8a34a06c5f2a",
+    "name": "LeBaron",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "050570f0-1a23-42b4-9ccc-c7f31c75346c",
+    "name": "Fiesta",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1a53df6f-8bf6-4550-a955-3bab7d1e2677",
+    "name": "Countach",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
